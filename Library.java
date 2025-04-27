@@ -7,6 +7,8 @@ public class Library {
 
     private String bookTitle; 
     private String author;
+    private int num;
+
 
 
 
@@ -24,6 +26,13 @@ public class Library {
     public static int getTotalBooks() {
         return totalBooks;
     }
+    public void setNum(int num){
+       this.num=num;
+    }
+    public int getNum(){
+        return num;
+    }
+    
 
     public void displayBookInfo() {
         System.out.println("Title: " + bookTitle);
@@ -45,6 +54,11 @@ public class Library {
         Library.addBook("Object Oriented Programming using Java", "Norazah Yusof");
         
         System.out.println("Total number of books: " + Library.getTotalBooks());
+        
+
+
+
+
 
     }
 

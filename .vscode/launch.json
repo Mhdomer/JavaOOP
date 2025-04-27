@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Compute",
+            "request": "launch",
+            "mainClass": "Compute",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorApp",
+            "request": "launch",
+            "mainClass": "CalculatorApp",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "Cinema",
+            "request": "launch",
+            "mainClass": "Cinema",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "Color",
+            "request": "launch",
+            "mainClass": "Color",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "Learn",
+            "request": "launch",
+            "mainClass": "Learn",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "Library",
+            "request": "launch",
+            "mainClass": "Library",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "NewClass",
+            "request": "launch",
+            "mainClass": "NewClass",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "Score",
+            "request": "launch",
+            "mainClass": "Score",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "Team",
+            "request": "launch",
+            "mainClass": "Team",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "Temperature",
+            "request": "launch",
+            "mainClass": "Temperature",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "calculator.Calculator",
+            "projectName": "JavaOOP_6bf06df2"
+        }
+    ]
+}
