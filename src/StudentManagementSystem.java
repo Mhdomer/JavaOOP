@@ -1,3 +1,5 @@
+package src;
+
 public class StudentManagementSystem {
     public static void main(String[] args) {
         // Create a regular student

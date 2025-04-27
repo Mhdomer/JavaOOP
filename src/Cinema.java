@@ -1,3 +1,5 @@
+package src;
+
 public class Cinema {
     private String name;
     private Seat[][] seats;
@@ -69,21 +71,5 @@ public class Cinema {
         System.out.println("Number of columns in Cinema 1: " + cinema1.getColumnCount());
         System.out.println("Number of rows in Cinema 2: " + cinema2.getRowCount());
         System.out.println("Number of columns in Cinema 2: " + cinema2.getColumnCount());
-    }
-}
-
-// Class to represent a seat in the cinema
-class Seat {
-    private boolean reserved;
-
-    // Method to set the seat as reserved
-    public void setReserved(boolean reserved) {
-        this.reserved = reserved;
-    }
-
-    // Method to represent the seat as a string (X for reserved, - for available)
-    @Override
-    public String toString() {
-        return reserved ? "X" : "-";
     }
 }

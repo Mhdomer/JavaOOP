@@ -1,3 +1,5 @@
+package src;
+
 public class Score {
     public static void main(String[] args) {
         int[] scores = {75, 90, 68, 54, 80};

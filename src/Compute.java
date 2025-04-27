@@ -1,5 +1,7 @@
 
 
+package src;
+
 public class Compute {
     public static void main(String[] args) { 
         int[] nums = { 1, 3, 5, 7 }; 

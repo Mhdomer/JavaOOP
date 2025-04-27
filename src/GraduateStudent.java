@@ -1,3 +1,5 @@
+package src;
+
 public class GraduateStudent extends Student {
     private String researchTopic;
     private String advisor;

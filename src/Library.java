@@ -1,5 +1,4 @@
-
-
+package src;
 
 public class Library {
 
@@ -8,9 +7,6 @@ public class Library {
     private String bookTitle; 
     private String author;
     private int num;
-
-
-
 
     public Library(String bookTitle, String author) {
         this.bookTitle = bookTitle;
@@ -42,7 +38,7 @@ public class Library {
     public static void main(String[] args) {
 
         Library book1 = new Library("To Kill a Mockingbird", "Harper Lee");
-        Library book2 =new Library("1984", "George Orwell");
+        Library book2 = new Library("1984", "George Orwell");
 
         System.out.println("Book 1 information:");
         book1.displayBookInfo();
@@ -54,12 +50,5 @@ public class Library {
         Library.addBook("Object Oriented Programming using Java", "Norazah Yusof");
         
         System.out.println("Total number of books: " + Library.getTotalBooks());
-        
-
-
-
-
-
     }
-
 }
