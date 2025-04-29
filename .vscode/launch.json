@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Customer",
+            "request": "launch",
+            "mainClass": "src.Customer",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
             "name": "Compute",
             "request": "launch",
             "mainClass": "Compute",
