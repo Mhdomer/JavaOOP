@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LecturerVector",
+            "request": "launch",
+            "mainClass": "src.LecturerVector",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "StudentArrayList",
+            "request": "launch",
+            "mainClass": "src.StudentArrayList",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
+            "name": "ArrayClassMethods",
+            "request": "launch",
+            "mainClass": "src.ArrayClassMethods",
+            "projectName": "JavaOOP_6bf06df2"
+        },
+        {
+            "type": "java",
             "name": "Customer",
             "request": "launch",
             "mainClass": "src.Customer",
